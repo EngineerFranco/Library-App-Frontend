@@ -1,8 +1,25 @@
-# React + Vite
+---
+name: Library App Frontend
+description: |
+  Welcome to the Library App Frontend repository! This project is built using React and Vite,
+  and it connects to the `library-app-backend` repository, which is developed with Node.js and Express.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+about: |
+  The Library App is a web application designed to manage and interact with a library system.
+  This frontend project provides an intuitive user interface for accessing and managing library data.
+  It communicates with the backend services provided by the `library-app-backend` to handle various library operations.
 
-Currently, two official plugins are available:
+features:
+  - User Authentication: Secure login and registration functionalities.
+  - Book Management(ROLE BASED): View, add, update, and delete books.
+  - Order Management: Manage book orders and track their status.
+  - Responsive Design: Optimized for various screen sizes and devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+technologies_used:
+  - React: A JavaScript library for building user interfaces.
+  - Vite: A fast build tool and development server.
+  - Axios: For making HTTP requests to the backend.
+  - Bootstrap: For styling and responsive design.
+  - React Router: For managing navigation within the application.
+
+
