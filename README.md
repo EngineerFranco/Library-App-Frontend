@@ -1,5 +1,5 @@
 ---
-name: Library App Frontend
+**Library App Frontend**
 description: |
   Welcome to the Library App Frontend repository! This project is built using React and Vite,
   and it connects to the `library-app-backend` repository, which is developed with Node.js and Express.
